@@ -1,0 +1,17 @@
+{
+  "name": "itw",
+  "version": "1.0.0",
+  "description": "Jogo para imersao Alura",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Buzette",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "p5": "^1.0.0"
+  }
+}
